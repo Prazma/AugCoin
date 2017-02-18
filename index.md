@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## AugCoinへようこそ！
+AugCoinは、**貧しい生産者を助け、発展途上国を発展させる通貨**です。
 
-You can use the [editor on GitHub](https://github.com/Prazma/augcoin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+AugCoinで買った商品のお金は、生産者の安定した給料を作り上げます。生産者の給料を増やすことによって、教育と安定した生活を与え、有望な未来を与えることが出来ます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**すべての貧困と発展途上の問題は一つの通貨で解決出来ます。**
 
-### Markdown
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prazma/augcoin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**AugCoinはまだ開発中です。AugCoinの開発の参加を希望している人は、[ここをクリック](https://github.com/Prazma/augcoin/wiki/Recruitment)**
