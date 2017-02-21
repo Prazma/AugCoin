@@ -1,5 +1,6 @@
 # AugPoint
 >AugPoints is a point card that supports organization for farmers and producers on fair trading.
+
 ### How do we get the funds?
 
 We use the "view the ads to donate" feature.
