@@ -15,7 +15,12 @@ to the project for charity.
 **What volunteers do**
 * Promote this project on the SNS (Twitter, Facebook, Instagram)
 * Do the campaigns by the AugPoint Team
+* Actually talk to the people (All fees payed by the organization)
 
 Why don't you make a change today?
 
 **Join us! _Let us change the world!_**
+
+***
+
+We have made an ultimate choice on working on this project independantly.
